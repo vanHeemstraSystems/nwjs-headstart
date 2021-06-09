@@ -112,6 +112,6 @@ that the file has been signed by an authorized member of the NW.js team.
 Once verified, use the SHASUMS256.txt file to get the checksum for
 the binary verification command above.
 
-## 900 - Licence
+## 900 - License
 
 `NW.js`'s code in this repo uses the MIT license, see our `LICENSE` file. To redistribute the binary, see [How to package and distribute your apps](https://github.com/nwjs/nw.js/wiki/How-to-package-and-distribute-your-apps)
