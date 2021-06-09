@@ -1,6 +1,18 @@
 # 500 - Quickstart
 
-Create `index.html`:
+Install NW.js node module globally:
+
+```
+$ npm install -g nw
+```
+
+Go to subdirectory:
+
+```
+$ cd examples/quick-start
+```
+
+Create/use `index.html`:
 
 ```html
 <!DOCTYPE html>
@@ -15,7 +27,7 @@ Create `index.html`:
 </html>
 ```
 
-Create `package.json`:
+Create/use `package.json`:
 
 ```json
 {
