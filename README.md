@@ -5,6 +5,8 @@ Based on "NW.js" at https://nwjs.io/
 
 Based on "nw.js" at https://github.com/nwjs/nw.js
 
+See "Web App to Mac App with NW.js: Introduction" at https://www.youtube.com/watch?v=-jZIZVsi6WA
+
 ```Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.```
 
 ## 100 - Introduction
