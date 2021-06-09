@@ -2,6 +2,12 @@
 
 ## 100 - Quickstart App
 
+If behind a corporate firewall, use:
+
+```
+$ npm config set strict-ssl false
+```
+
 Install NW.js node module globally:
 
 ```
